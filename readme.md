@@ -1,7 +1,18 @@
+Olá,
+Esse repositório é referente ao card10 do LAMIA. Ele está dividido nas seguintes pastas:
+
+.venv;
+Arquivos de Código;
+Códigos;
+Mapas Mentais;
+Outros
+
+Esse card aborda os seguintes conceitos:
+
 More Data Mining and Machine Learning Techniques
-1.  🎥 K-Nearest-Neighbors Concepts 
-2.  🎥 Activity Using KNN to predict a rating for a movie
-3.  🎥 Dimensionality Reduction; Principal Component Analysis (PCA)
+1.  🎥 K-Nearest-Neighbors Concepts - ok 
+2.  🎥 Activity Using KNN to predict a rating for a movie - ok
+3.  🎥 Dimensionality Reduction; Principal Component Analysis (PCA) - ok
 4.  🎥 Activity PCA Example with the Iris data set
 5.  🎥 Data Warehousing Overview ETL and ELT
 6.1 📝 Pac-Man Example.html
