@@ -35,4 +35,4 @@ Esse card aborda os seguintes conceitos:
 	9.  🎥 Handling Unbalanced Data Oversampling, Undersampling, and SMOTE
 	10. 🎥 Binning, Transforming, Encoding,  Scaling, and Shuffling
 
-O status atual dele é: Incompleto, estou no item 6.4
+O status atual dele é: Incompleto, estou no item 1.5
