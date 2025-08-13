@@ -18,6 +18,8 @@ state, info = streets_train.reset(seed=1234)
 # Configuração do estado inicial
 initial_state = streets_train.unwrapped.encode(2, 3, 2, 0)
 streets_train.unwrapped.s = initial_state
+print(streets_train.render())
+print(streets_train.P[initial_state])
 
 # Q-learning
 q_table = np.zeros([streets_train.observation_space.n, streets_train.action_space.n])
@@ -25,6 +27,14 @@ learning_rate = 0.1
 discount_factor = 0.6
 exploration = 0.1
 epochs = 10000
+
+print(f"Tabela Q: {q_table}\n")
+print(f"Taxa de aprendizado: {learning_rate}\n")
+print(f"Fator de disconto: {discount_factor}\n")
+print(f"Fator de exploração: {exploration}\n")
+print(f"Épocas de treinamento: {epochs}\n")
+sleep(1.5)
+print(f"Execuntando treinamento...")
 
 for taxi_run in range(epochs):
     state, _ = streets_train.reset()
