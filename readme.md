@@ -15,9 +15,6 @@ Esse card aborda os seguintes conceitos:
 	3.  🎥 Dimensionality Reduction; Principal Component Analysis (PCA)
 	4.  🎥 Activity PCA Example with the Iris data set
 	5.  🎥 Data Warehousing Overview ETL and ELT
-		6.1 📝 Pac-Man Example.html
-		6.2 📝 Python Markov Decision Process Toolbox.html
-		6.3 📝 Cat and Mouse Example.html
 	6.  🎥 Reinforcement Learning
 	7.  🎥 Activity Reinforcement Learning & Q-Learning with Gym
 	8.  🎥 Understanding a Confusion Matrix
@@ -35,4 +32,4 @@ Esse card aborda os seguintes conceitos:
 	9.  🎥 Handling Unbalanced Data Oversampling, Undersampling, and SMOTE
 	10. 🎥 Binning, Transforming, Encoding,  Scaling, and Shuffling
 
-O status atual dele é: Incompleto, estou no item 1.5
+O status atual dele é: Incompleto, estou no item 7
