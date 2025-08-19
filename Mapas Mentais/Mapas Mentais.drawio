@@ -1,4 +1,4 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.16 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.16" pages="6">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.16 Chrome/132.0.6834.196 Electron/34.2.0 Safari/537.36" version="26.0.16" pages="7">
   <diagram name="Página-1" id="GsnB_X3R4TRYKl_84Edo">
     <mxGraphModel dx="1050" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -542,6 +542,53 @@
             <Array as="points">
               <mxPoint x="205" y="520" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7s6vmELgTQ9jvayAB6qu" name="Página-7">
+    <mxGraphModel dx="1050" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="z-TfWPEx_yJ7OS1jXNn0-1" value="Outliers" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="115" y="70" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z-TfWPEx_yJ7OS1jXNn0-2" value="Dados perdidos" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="110" y="190" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="z-TfWPEx_yJ7OS1jXNn0-3" value="Dados maliciosos" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="99.5" y="510" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z-TfWPEx_yJ7OS1jXNn0-4" value="Dados errados" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="115" y="130" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="z-TfWPEx_yJ7OS1jXNn0-5" value="Dados irrelevantes" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="102" y="340" width="75" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="z-TfWPEx_yJ7OS1jXNn0-6" value="Dados inconsistentes" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="99.5" y="420" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z-TfWPEx_yJ7OS1jXNn0-7" value="Dados mal formatados" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="104.5" y="262" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="z-TfWPEx_yJ7OS1jXNn0-9" value="Limpeza dos dados e normalização" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.trashcan;" parent="1" vertex="1">
+          <mxGeometry x="369" y="240" width="90" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pu2LK_rtGzJVxrjKf5GV-1" value="Dados tratados" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="210" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="pu2LK_rtGzJVxrjKf5GV-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="290" as="sourcePoint" />
+            <mxPoint x="320" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pu2LK_rtGzJVxrjKf5GV-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="289.5" as="sourcePoint" />
+            <mxPoint x="590" y="289.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
